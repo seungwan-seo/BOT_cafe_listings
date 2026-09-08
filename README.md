@@ -1,4 +1,4 @@
-# daangn-realty-alert
+# BOT_cafe_listings
 
 당근 부동산/중고거래에서 조건에 맞는 신규 매물을 찾아 텔레그램으로 알려주는 개인용 봇.
 

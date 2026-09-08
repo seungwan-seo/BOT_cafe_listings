@@ -1,8 +1,8 @@
-# coffe-alert
+# BOT_cafe_listings
 
 당근 부동산+중고거래 신규 매물 텔레그램 알림 봇 (개인용, 무인카페 창업 매물/장비 탐색 목적). 구조와 사용법은 [README.md](README.md).
 
-**2026-08-21 가동 개시** — 원격: https://github.com/seungwan-seo/coffe-alert (public). GitHub Actions 10분 cron. 봇이 `state/seen.json`을 자동 커밋하므로 **로컬 수정 전 `git pull` 필수**. 알림 수신: 텔레그램 그룹(사용자+동업자).
+**2026-08-21 가동 개시** — 원격: https://github.com/seungwan-seo/BOT_cafe_listings (public). GitHub Actions 10분 cron. 봇이 `state/seen.json`을 자동 커밋하므로 **로컬 수정 전 `git pull` 필수**. 알림 수신: 텔레그램 그룹(사용자+동업자).
 
 ## 매물 평가 기준
 [STRATEGY.md](STRATEGY.md) — 무인카페 인수 전략과 100점 평가 체크리스트. 핵심 전제: 빈 상가가 아니라 **기존 카페 양도 매물**(시설 완비)을 싸게 인수해 무인화.
